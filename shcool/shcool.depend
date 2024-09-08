@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1725664456 source:d:\project\shcool\main.c
+	<stdio.h>
+	<stdlib.h>
+	"STD_TYPES.h"
+	"LINKLIST.h"
+
+1725653048 d:\project\shcool\std_types.h
+
+1725665089 source:d:\project\shcool\linklist.c
+	<stdio.h>
+	<stdlib.h>
+	"STD_TYPES.h"
+
+1725664456 d:\project\shcool\linklist.h
+	<stdio.h>
+	<stdlib.h>
+	"STD_TYPES.h"
+
